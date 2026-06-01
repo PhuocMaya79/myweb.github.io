@@ -8,7 +8,7 @@ Giới thiệu bản thân (ai bạn là ai, làm gì) Trưng bày dự án đã
 
 📄 1. Trang chủ (Home)
 
-![Uploading image.png…]()
+<img width="637" height="479" alt="image" src="https://github.com/user-attachments/assets/242e6c99-73ee-4d8b-9c23-fb3bc04d2250" />
 
 Mục đích: Gây ấn tượng đầu tiên và dẫn người xem đi khám phá tiếp
 
@@ -18,9 +18,11 @@ Lời chào + tên + nghề nghiệp → Ví dụ: “Tôi là Nguyễn Thành P
 
 👉 Trang này cần:
 
-Ngắn gọn Rõ ràng Thu hút ngay 5–10 giây đầu 👤 2. Trang Giới thiệu (About)
+Ngắn gọn Rõ ràng Thu hút ngay 5–10 giây đầu 
+👤 2. Trang Giới thiệu (About)
 
-image
+<img width="956" height="765" alt="image" src="https://github.com/user-attachments/assets/33ba66cb-17ef-4ca8-bb9f-9460fddeb292" />
+
 Mục đích: Giúp người xem hiểu rõ về bạn
 
 Nội dung:
@@ -31,7 +33,8 @@ Nội dung:
 
 💼 3. Trang Dự án (Projects)
 
-image
+<img width="255" height="369" alt="image" src="https://github.com/user-attachments/assets/6aee9643-3bae-49c7-9481-167679250d58" />
+
 Mục đích: Trưng bày sản phẩm đã làm
 
 Nội dung:
@@ -42,7 +45,8 @@ Danh sách các dự án (dạng card) Mỗi dự án gồm: Hình ảnh preview
 
 📊 4. Trang Chi tiết dự án (Project Detail)
 
-image
+<img width="263" height="368" alt="image" src="https://github.com/user-attachments/assets/77bfb021-628a-41c6-a5d2-5fc951bcc7da" />
+
 Mục đích: Trình bày sâu về từng dự án
 
 Nội dung:
@@ -51,9 +55,11 @@ Nội dung:
 
 👉 Trang này thể hiện:
 
-Cách bạn suy nghĩ Cách bạn giải quyết vấn đề ✍️ 5. Trang Blog & Liên hệ (Blog)
+Cách bạn suy nghĩ Cách bạn giải quyết vấn đề ✍️ 
+5. Trang Blog & Liên hệ (Blog)
 
-image
+<img width="284" height="380" alt="image" src="https://github.com/user-attachments/assets/fb236add-0ff0-4839-9d5d-51f97c362b37" />
+
 Mục đích: Chia sẻ kiến thức + nhận liên hệ
 
 Nội dung:
@@ -70,4 +76,4 @@ Trang chủ → gây ấn tượng Giới thiệu → xây dựng niềm tin D�
 
 Ứng dụng tôi tham khảo và làm mẫu : Canva
 
-image
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/591165d9-c292-4281-9377-7dd8cc7c7d30" />
