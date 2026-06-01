@@ -8,6 +8,8 @@ Giới thiệu bản thân (ai bạn là ai, làm gì) Trưng bày dự án đã
 
 📄 1. Trang chủ (Home)
 
+<img width="637" height="479" alt="image" src="https://github.com/user-attachments/assets/a947b1dd-385f-433b-812b-504d17f1959a" />
+
  Mục đích: Gây ấn tượng đầu tiên và dẫn người xem đi khám phá tiếp
 
 Nội dung chính:
@@ -16,7 +18,10 @@ Lời chào + tên + nghề nghiệp → Ví dụ: “Tôi là Nguyễn Thành P
 
 👉 Trang này cần:
 
-Ngắn gọn Rõ ràng Thu hút ngay 5–10 giây đầu 👤 2. Trang Giới thiệu (About)
+Ngắn gọn Rõ ràng Thu hút ngay 5–10 giây đầu 👤
+2. Trang Giới thiệu (About)
+
+<img width="956" height="765" alt="image" src="https://github.com/user-attachments/assets/fce39992-00c3-4ed1-9b21-0b415fd9cc8d" />
 
  Mục đích: Giúp người xem hiểu rõ về bạn
 
@@ -28,6 +33,8 @@ Nội dung:
 
 💼 3. Trang Dự án (Projects)
 
+<img width="255" height="369" alt="image" src="https://github.com/user-attachments/assets/be7350a4-7c66-4641-ad8d-e2c03f2cf8fd" />
+
  Mục đích: Trưng bày sản phẩm đã làm
 
 Nội dung:
@@ -38,6 +45,8 @@ Danh sách các dự án (dạng card) Mỗi dự án gồm: Hình ảnh preview
 
 📊 4. Trang Chi tiết dự án (Project Detail)
 
+<img width="263" height="368" alt="image" src="https://github.com/user-attachments/assets/38cc57d0-8ae8-4a63-bac9-c2fe02f8b589" />
+
  Mục đích: Trình bày sâu về từng dự án
 
 Nội dung:
@@ -46,7 +55,10 @@ Nội dung:
 
 👉 Trang này thể hiện:
 
-Cách bạn suy nghĩ Cách bạn giải quyết vấn đề ✍️ 5. Trang Blog & Liên hệ (Blog)
+Cách bạn suy nghĩ Cách bạn giải quyết vấn đề ✍️
+ 5. Trang Blog & Liên hệ (Blog)
+
+<img width="284" height="380" alt="image" src="https://github.com/user-attachments/assets/d4c10308-3be9-440e-a771-6f522263bd00" />
 
  Mục đích: Chia sẻ kiến thức + nhận liên hệ
 
