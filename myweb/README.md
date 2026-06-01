@@ -8,7 +8,7 @@ Giới thiệu bản thân (ai bạn là ai, làm gì) Trưng bày dự án đã
 
 📄 1. Trang chủ (Home)
 
-image Mục đích: Gây ấn tượng đầu tiên và dẫn người xem đi khám phá tiếp
+ Mục đích: Gây ấn tượng đầu tiên và dẫn người xem đi khám phá tiếp
 
 Nội dung chính:
 
@@ -18,7 +18,7 @@ Lời chào + tên + nghề nghiệp → Ví dụ: “Tôi là Nguyễn Thành P
 
 Ngắn gọn Rõ ràng Thu hút ngay 5–10 giây đầu 👤 2. Trang Giới thiệu (About)
 
-image Mục đích: Giúp người xem hiểu rõ về bạn
+ Mục đích: Giúp người xem hiểu rõ về bạn
 
 Nội dung:
 
@@ -28,7 +28,7 @@ Nội dung:
 
 💼 3. Trang Dự án (Projects)
 
-image Mục đích: Trưng bày sản phẩm đã làm
+ Mục đích: Trưng bày sản phẩm đã làm
 
 Nội dung:
 
@@ -38,7 +38,7 @@ Danh sách các dự án (dạng card) Mỗi dự án gồm: Hình ảnh preview
 
 📊 4. Trang Chi tiết dự án (Project Detail)
 
-image Mục đích: Trình bày sâu về từng dự án
+ Mục đích: Trình bày sâu về từng dự án
 
 Nội dung:
 
@@ -48,7 +48,7 @@ Nội dung:
 
 Cách bạn suy nghĩ Cách bạn giải quyết vấn đề ✍️ 5. Trang Blog & Liên hệ (Blog)
 
-image Mục đích: Chia sẻ kiến thức + nhận liên hệ
+ Mục đích: Chia sẻ kiến thức + nhận liên hệ
 
 Nội dung:
 
