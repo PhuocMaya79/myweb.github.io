@@ -75,5 +75,9 @@ Website gồm 5 phần chính:
 Trang chủ → gây ấn tượng Giới thiệu → xây dựng niềm tin Dự án → chứng minh năng lực Chi tiết dự án → thể hiện tư duy Blog & Liên hệ → kết nối & chia sẻ
 
 Ứng dụng tôi tham khảo và làm mẫu : Canva
+🛠 Công nghệ & Công cụ sử dụng
+Languages: C, Python, JavaScript, HTML/CSS
+Tools: VS Code, GitHub Desktop, TLauncher (Dùng cho dự án Modding)
+Design: canva
 
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/afae513b-089e-4c2f-a967-807f537fc80f" />
